@@ -15,7 +15,7 @@ Depend on the state of the application, the appropriate functions are called to 
 Build the GUI of the application:
 The objects in Swing package which are used are JFrame, JPanel and Canvas. 
 Below is the very first screen of the game 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Game](Screen Shot 2020-02-24 at 2.10.17 am.png)
 
 Figure1: Very first screen of the game
 
