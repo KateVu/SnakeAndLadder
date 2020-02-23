@@ -15,7 +15,7 @@ Depend on the state of the application, the appropriate functions are called to 
 Build the GUI of the application:
 The objects in Swing package which are used are JFrame, JPanel and Canvas. 
 Below is the very first screen of the game 
-![Image of Game](Screen Shot 2020-02-24 at 2.10.17 am.png)
+![Image of Game](https://github.com/KateVu/SnakeAndLadder/blob/master/ScreenShot.png)
 
 Figure1: Very first screen of the game
 
